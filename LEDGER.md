@@ -46,3 +46,10 @@ thing..." (125 chars, two ideas).
 - Built, tested. NOT committed, NOT pushed, NOT bundled, NOT checked,
   NOT submitted — parent does that.
 - No claim code yet (none issued).
+
+## Submission
+
+- Submission: 01a210b2-763f-7192-a1a6-d721556f0534
+- Commit: 339cb7b3a44a30d9773c4050e75db8d33095bab6
+- Stage: checked
+- Claim code: AF-W3JMA-3G3KJ-35Q0T-2287M
